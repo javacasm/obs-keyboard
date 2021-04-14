@@ -7,6 +7,7 @@
 
 ## Modelo con arduino ATMega4u
 
+[Proyecto con teclas, leds y pontenciómetro](https://www.instructables.com/Programmable-Macropad-V2/) 
 
 ## Teclas
 
