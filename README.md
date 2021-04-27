@@ -14,3 +14,5 @@
 [Teclas con símbolos de la play](https://www.thingiverse.com/thing:1957480)
 
 [Teclado completo generado con openScad](https://www.thingiverse.com/thing:2783650)
+
+[Diseño de teclado](https://www.youmagine.com/designs/mini-pc-keyboard)
